@@ -1,6 +1,6 @@
 Name:		texlive-abspos
 Version:	64465
-Release:	1
+Release:	2
 Summary:	Absolute placement with coffins
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/abspos
