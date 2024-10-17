@@ -3,7 +3,7 @@ Version:	64465
 Release:	2
 Summary:	Absolute placement with coffins
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/abspos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/abspos
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/abspos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/abspos.doc.r%{version}.tar.xz
